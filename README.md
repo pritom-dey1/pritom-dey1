@@ -8,7 +8,7 @@ Skills: JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pritom-dey1)  
+[<img src='https://www.google.com/imgres?q=coder%20picture&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F632%2F34%2F549%2Ftechnology-monitor-alpha-coders-binary-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&docid=sGlzJE0j84584M&tbnid=bhkXLklLk1WiKM&vet=12ahUKEwjUveijueKIAxWm4TgGHbARJwYQM3oECFYQAA..i&w=728&h=410&hcb=2&ved=2ahUKEwjUveijueKIAxWm4TgGHbARJwYQM3oECFYQAA' alt='github' height='40'>](https://github.com/pritom-dey1)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
