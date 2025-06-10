@@ -3,7 +3,10 @@
 🎓 **Diploma in CST (Computer Science & Technology)**  
 🏫 Bangladesh Sweden Polytechnic Institute  
 🎯 **SSC GPA:** 5.00 from Patenga Ideal School  
-![Coding Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQM7s4B1DYBwSLcyyYZ9LUkvWPj7oUhc1mw&s)
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQM7s4B1DYBwSLcyyYZ9LUkvWPj7oUhc1mw&s" alt="Coding Image" width="400" height="300" />
 
 
 ---
