@@ -5,8 +5,8 @@
 🎯 **SSC GPA:** 5.00 from Patenga Ideal School  
 
 
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQM7s4B1DYBwSLcyyYZ9LUkvWPj7oUhc1mw&s" alt="Coding Image" width="400" height="300" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mIWTwcjegkzg9HnL_jMeEJgAM2x2bucd8g&s
+" alt="Coding Image" width="100%" height="300" />
 
 
 ---
