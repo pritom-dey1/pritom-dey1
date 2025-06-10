@@ -4,8 +4,10 @@
 🏫 Bangladesh Sweden Polytechnic Institute  
 🎯 **SSC GPA:** 5.00 from Patenga Ideal School  
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusaycEdSu9HAW4kk4GGlDrpRjIfrkoY2RKA&s
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusaycEdSu9HAW4kk4GGlDrpRjIfrkoY2RKA&s" alt="Coding Image" width="100%" height="300" />
+
+
+  
+<img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740" alt="Coding Image" width="100%" height="300" />
 
 
 ---
