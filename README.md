@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pritom Dey
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views---orange?style=for-the-badge)
+![Visitor Count](https://visitor-counter.vercel.app/count?label=Profile%20Views&color=orange)
+
 
 
 🎓 **Diploma in CST (Computer Science & Technology)**  
