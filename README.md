@@ -3,12 +3,12 @@
 ![The best error message is the one that never shows up.]
 
 
-Skills: JS / HTML / CSS / PYTHON
+Skills:
 
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='' alt='github' height='40'>](https://github.com/pritom-dey1)  
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPIvfOYPGUW_r42qqb8M75fSPaLUv_o877g&s' alt='github' height='40'>](https://github.com/pritom-dey1)  
 
 <a href='https://archiveprogram.github.com/'><img src=''><img src='' width='35' height='35'></a> 
 
