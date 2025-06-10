@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pritom Dey
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=pritomdey.pritomdey)
+![Profile Views](https://img.shields.io/badge/Profile%20Views---orange?style=for-the-badge)
+
 
 🎓 **Diploma in CST (Computer Science & Technology)**  
 🏫 Bangladesh Sweden Polytechnic Institute  
