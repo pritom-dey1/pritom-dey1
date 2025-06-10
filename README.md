@@ -7,7 +7,7 @@
 
 
   
-<img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740" alt="Coding Image" width="100%" height="300" />
+<img src="https://www.epl.ca/wp-content/uploads/sites/18/2020/12/CodingSnowflakes_Dec2020_BlogCard_890x445.png" width="100%" height="300" />
 
 
 ---
