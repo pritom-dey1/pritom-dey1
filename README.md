@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pritom Dey
 
-![Visitor Count](https://visitor-counter.vercel.app/count?label=Profile%20Views&color=orange)
+![Profile Views](https://img.shields.io/badge/Profile%20Views---orange?style=for-the-badge)
 
 
 
