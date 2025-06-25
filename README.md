@@ -47,4 +47,4 @@
 ---
 
 > “Consistency is more important than perfection.” — *Pritom Dey* <br>
-My portfolio:<a href="https://PRITOMDY.42web.io" target="_blank">Please Visit</a>
+
