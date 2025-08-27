@@ -11,8 +11,7 @@
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritomdey&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritomdey&show_icons=true&theme=react)
+
 
 
 ## 🚀 Skills & Technologies
