@@ -4,7 +4,7 @@
 🏫 Bangladesh Sweden Polytechnic Institute  
 🎯 **SSC GPA:** 5.00 from Patenga Ideal School  
 
-<img src="https://www.epl.ca/wp-content/uploads/sites/18/2020/12/CodingSnowflakes_Dec2020_BlogCard_890x445.png" width="100%" height="300" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFiEF6yjbBNTg/profile-displaybackgroundimage-shrink_350_1400/B4DZhRVMyAGsAY-/0/1753711170588?e=1764201600&v=beta&t=0izT64f9Ijfm7HUUCU36xVWozZ6zTYOByZuHF6oLm9E" width="100%" height="300" />
 
 ---
 
